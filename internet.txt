@@ -1,0 +1,12 @@
+What is the Internet?
+- The internet is a global network of computers connected to each other that communicate through a standardized set of protocols.
+
+- It was a result of the Arpanet(Advanced Research Projeccts Agency Network) project which was used the Defence network. The goal of the internet was to create a network infrastructure that overcame the single point of failure shortcoming making it a ditributed packet-switched network.
+
+- The internet is not controlled by a single entity but every entity in the infrastructure. This works by the entities collaborating with each other to enable packets to be transmitted throughout the network.
+
+- Information is transmitted over the internet by wither cables and radio waves. Radio waves aren't capable of carrying a signal over long distances before the signal loses its integrity hence long distance signals are carried through cables underground and even some laid down on the sea bed.
+
+- There are many computers in the internet hence its important to have a unique identification that helps identify you to prevent the information of one computer from being sent to a different computer. This is achieved by using an IP Address which is a unique number that identifies each computer in the network. This enusres that data is received and sent to the correct client. 
+
+- The protocol that ensures that all data is received by the client is the TCP/IP(Transimission control protocol/Internet Protocol). If a packet is missing, then TCP/IP asks the sender to resend the packet and until the packet is sent, the protocol blocks the continuation of operations. Take na example of watching a youtube video and then you see the loading sign aon the screen. That's an example of the case described above.
