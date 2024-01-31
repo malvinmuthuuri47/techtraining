@@ -1,0 +1,8 @@
+What is GIT?
+- Git is a version control system that helps developers to track and manage changes to their code effectively. Its become popular due to its ditributed nature, branching capabilities and handling of large projects.
+
+- Its basic operation is the creation of snaptshots/commits of your code at different stages, allowing you to revert to previous versions if needed. At its core is the repository which acts as a central storehouse for all your project files and their revision history.
+
+- It was developed by Linus Tolvards and it was developed as a distributed software allowing developers to have a full history of changes made to their codes and their codes available locally.
+
+- Git has helped in workflow management by introducing branching. This helps in that one main accepted code can be kept in the main branch while additional features are being worked on on separate branches. Think of it as having the main code in the main room and working on updates in different rooms. This helps in that incase there is a feature that causes the code to crash, it will be easier to roll back and also before adding a new feature(the process of merging), it has to be tested rigorously helping in the development process.

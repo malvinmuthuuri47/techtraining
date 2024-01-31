@@ -1,0 +1,18 @@
+What is HTTP?
+
+- HTTP is application layer protocol language that one computer(client) on the internet uses to ask another computer(server) for a document. It runs on top of other layers of the network protocol stack.
+
+- HTTP has methods that control what happens to data. The Get method is used by the client to fetch data from a server; The POST method is used by the client to send data to the server such as when filling a web form; The PUT method is used to make an update to existing data such as updating a database record; The DELETE method deletes an entry as the name suggests.
+
+- HTTP also has headers that carry important data used in communication. These headers carry important details such as the cookies, authentication and authorization information, language, format of the data being sent  and much more.
+
+- HTTP has a request body that contains the data being sent over the network.
+
+- HTTP has status codes that indicate the state of the current request. They are categorized as:
+1xx - Informational
+2xx - Success
+3xx - Redirection
+4XX - Client Error
+5xx - Server Error
+
+xx - Refers to different numbers in the range(00 to 99).
