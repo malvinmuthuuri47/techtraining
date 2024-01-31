@@ -1,0 +1,7 @@
+What is Github?
+
+- Github is a code hosting platform for version control and colaboration letting you and others work together on projects from anywhere. 
+
+- The difference between Git and Github is that Git provides the functionality for tracking changes in code while Github is a web-based platform that utilizes Git for version control but adds features to facilitate collaboration, code sharing and project management.
+
+- Developers use Git locally on their computers and Github serves as a remote repository hosting service with additional collaboration tools
